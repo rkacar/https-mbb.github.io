@@ -1,0 +1,12 @@
+İnternet üzerinde bir webhost'ta çalışır. 
+Dosyaları hosta yükleyin ve ardından upload.php sayfasını internet adresiniz üzerinde açın;
+Aşağıdaki sütun isimlerine sahip olacak şekilde excel dosyası yükleyin, Ornek_Excel.xlsx dosyalar arasında vardır:
+
+KODU	ADI	RENK	BEDEN	FİYAT	VADELI	PRK	MİKTAR	DVZ
+
+
+Yükleme tamamlandıktansonra index.php sayfasından okutma işlemlerini gerçekleştirebilirsiniz.
+Güncellemek istediğinizde yeni verilerin tümünün olduğu excel dosyasını yeniden yükleyin.
+
+UNUTMAYIN: Her yeni yüklenen excel, önceki yüklü excel verilerini siler, bu yüzden eski verileriniz önemli ise yeni excel'inizde eski verileriniz deolsun ve öyle yükleyin.
+Ayrıca; internet üzerinde yayın yapıldığından bu sayfaların linkine sahip herkes doğru barkodu okutursa verilerinizi görebilir, ama barkod okutmazsa ya da barkodlarınıza ulaşamazarsa göremezler.
